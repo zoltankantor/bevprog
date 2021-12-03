@@ -4,7 +4,7 @@ vector<int> gv = { 1, 2, 4, 8, 16, 32, 64, 128, 256, 512 };
 
 void f(const vector<int> vektor)
 {
-	vector<int> lv; //ha még egyszer megadok zárójelben egy számot valaki törje el a kezem, köszönöm
+	vector<int> lv;
 
 	for (int i = 0; i < 10; ++i) //initializing
 	{
